@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Skills
+- Java
+- Spring Boot
+- Hibernate
+- Spring Data Jpa
+- Spring Security
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+### Social
+- HackerRank
+- GFG
+- LinkedIn
