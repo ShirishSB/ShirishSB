@@ -1,6 +1,4 @@
-## Hi, I'm Shirish
-
-# 💫 About Me:
+## Hi, I'm Shirish 👋
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br/><br>👨🏻‍🎓 Studied EnTC at the Savitribai Phule Pune University, Pune <br/><br>💭 Currently learning about Backend and React <br/>
 
 
